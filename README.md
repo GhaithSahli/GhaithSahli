@@ -26,5 +26,6 @@ Engineering student @ INSAT | Building **software, AI, robotics & video games**
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![Godot](https://img.shields.io/badge/-Godot-478cbf?style=flat-square&logo=godot-engine&logoColor=white)
 
 ---
